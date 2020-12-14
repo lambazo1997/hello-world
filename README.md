@@ -1,2 +1,1 @@
-# hello-world
-just Repository
+Hi, my name is Thien Bao :)
